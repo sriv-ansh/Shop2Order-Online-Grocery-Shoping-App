@@ -1,0 +1,290 @@
+{
+    "Atta": {
+        "1": {
+            "Item Name": "Atta With Multigrains",
+            "Price": "285",
+            "Quentity": "5 KG"
+        },
+        "2": {
+            "Item Name": "Sudha Chakki Atta",
+            "Price": "418",
+            "Quentity": "10 Kg"
+        },
+        "3": {
+            "Item Name": "Chakki Fresh Atta",
+            "Price": "382",
+            "Quentity": "10 Kg"
+        },
+        "4": {
+            "Item Name": "Sugar Release Controal Atta",
+            "Price": "308",
+            "Quentity": "5 Kg"
+        },
+        "5": {
+            "Item Name": "Rajdhinhi Chakki Fresh Atta",
+            "Price": "206",
+            "Quentity": "5 Kg"
+        }
+    },
+    "Besan": {
+        "1": {
+            "Item Name": "Fortune Besan",
+            "Price": "42",
+            "Quentity": "500 g"
+        },
+        "2": {
+            "Item Name": "Tata Sapmap Besan",
+            "Price": "95",
+            "Quentity": "1 Kg"
+        }
+    },
+    "Rice": {
+        "1": {
+            "Item Name": "Brown Basmati Rice",
+            "Price": "625",
+            "Quentity": "5 Kg"
+        },
+        "2": {
+            "Item Name": "Baryani Basmati Rice",
+            "Price": "179",
+            "Quentity": "1 Kg"
+        },
+        "3": {
+            "Item Name": "Rozana Super Basmati Rice",
+            "Price": "347",
+            "Quentity": "5 Kg"
+        },
+        "4": {
+            "Item Name": "Sugandh Basmati Rice",
+            "Price": "155",
+            "Quentity": "3 Kg"
+        },
+        "5": {
+            "Item Name": "Fortune Everyday Basmati Rice",
+            "Price": "489",
+            "Quentity": "5 Kg"
+        }
+    },
+    "Salt": {
+        "1": {
+            "Item Name": "Tata Laodized Salt",
+            "Price": "25",
+            "Quentity": "1 Kg"
+        },
+        "2": {
+            "Item Name": "Lite Namak, 15% low",
+            "Price": "40",
+            "Quentity": "500 g"
+        },
+        "3": {
+            "Item Name": "Rock Salt, Premium Sendha Namak",
+            "Price": "51",
+            "Quentity": "500 g"
+        },
+        "4": {
+            "Item Name": "Himalayan Pink Salt",
+            "Price": "59",
+            "Quentity": "500 g"
+        }
+    },
+    "Sugar": {
+        "1": {
+            "Item Name": "Bold Sugar",
+            "Price": "241",
+            "Quentity": "5 kg"
+        },
+        "2": {
+            "Item Name": "Natural Brown Sugar",
+            "Price": "66 ",
+            "Quentity": "1 Kg "
+        },
+        "3": {
+            "Item Name": "50 % less Calories Sugar",
+            "Price": "68",
+            "Quentity": "500 g"
+        }
+    },
+    "Cashew Nuts": {
+        "1": {
+            "Item Name": "Kalbavi Popular W450 Cashews",
+            "Price": "351",
+            "Quentity": "500 g"
+        },
+        "2": {
+            "Item Name": "Unbranded Grocery Whole Cashwes",
+            "Price": "370",
+            "Quentity": "500 g"
+        },
+        "3": {
+            "Item Name": "Farmley Premium W320 Cashwes",
+            "Price": "208",
+            "Quentity": "250 g"
+        },
+        "4": {
+            "Item Name": "Happilo 100 % Natural Premium Cashwes",
+            "Price": "395",
+            "Quentity": "500 g"
+        },
+        "5": {
+            "Item Name": "RunNutz Premium W 32 O Cashwes",
+            "Price": "365",
+            "Quentity": "500 g"
+        }
+    },
+    "Almonds": {
+        "1": {
+            "Item Name": "ProV California Independence Almonds",
+            "Price": "295",
+            "Quentity": "2x250 g"
+        },
+        "2": {
+            "Item Name": "Farmley Popular California Almonds",
+            "Price": "305",
+            "Quentity": "500 g"
+        },
+        "3": {
+            "Item Name": "ProV Almonds",
+            "Price": "315",
+            "Quentity": "500 g"
+        }
+    },
+    "Noodles & Pasta": {
+        "1": {
+            "Item Name": "WickedGud Curry with High Protien Noodles",
+            "Price": "101",
+            "Quentity": "201 g"
+        },
+        "2": {
+            "Item Name": "Meggi 2-Min Instant Noodles",
+            "Price": "151",
+            "Quentity": "12x70 g"
+        },
+        "3": {
+            "Item Name": "Sunfeast YiPPee! Magic Instant Noodles ",
+            "Price": "130",
+            "Quentity": "12x60 g"
+        },
+        "4": {
+            "Item Name": "Saffola Oodles Yummy Masala ",
+            "Price": "49",
+            "Quentity": "4x53 g"
+        }
+    },
+    "Ketchups & Spreads ": {
+        "1": {
+            "Item Name": "Kisan Fresh Tomato Ketchup",
+            "Price": "128",
+            "Quentity": "1.2 Kg Refill"
+        },
+        "2": {
+            "Item Name": "Meggi Tomato Ketchup",
+            "Price": "150",
+            "Quentity": "1.5 Kg"
+        }
+    },
+    "Breakfast Cereals": {
+        "1": {
+            "Item Name": "Saffola Masala Oats",
+            "Price": "150",
+            "Quentity": "500 g"
+        },
+        "2": {
+            "Item Name": "Quaker Oats Pouch",
+            "Price": "279",
+            "Quentity": "2000 g"
+        },
+        "3": {
+            "Item Name": "Kwality Masala Oots",
+            "Price": "236",
+            "Quentity": ""
+        }
+    },
+    "Sunflower Oil": {
+        "1": {
+            "Item Name": "Sunlite Refined Sunflower Oil",
+            "Price": "149",
+            "Quentity": "1 L"
+        },
+        "2": {
+            "Item Name": "Sunlite Refined Sunflower Oil Mega Pack",
+            "Price": "785",
+            "Quentity": "5 L"
+        }
+    },
+    "Groundnut Oil": {
+        "0": {
+            "Item Name": "Refined Groundnut Oil",
+            "Price": "203",
+            "Quentity": "1 L"
+        },
+        "2": {
+            "Item Name": "Filtered Groundnut Oil Nut",
+            "Price": "1062",
+            "Quentity": "5 L"
+        },
+        "3": {
+            "Item Name": "Dalada Groundnut Oil Nut",
+            "Price": "191",
+            "Quentity": "1 L"
+        }
+    },
+    "Mustared Oil": {
+        "1": {
+            "Item Name": "Kachi Ghani Mustard Oil ",
+            "Price": "144",
+            "Quentity": "1 L"
+        },
+        "2": {
+            "Item Name": "Fortuen Kachhi Ghani Mustard Oil",
+            "Price": "723",
+            "Quentity": "5 L"
+        },
+        "3": {
+            "Item Name": "Dalda Kachi Ghani Mustard Oil",
+            "Price": "143 ",
+            "Quentity": "1 L"
+        },
+        "4": {
+            "Item Name": "Dhara Kachi Ghani Mustard Oil",
+            "Price": "716",
+            "Quentity": "5 L"
+        }
+    },
+    "Ghee": {
+        "1": {
+            "Item Name": "Aashirvaad Svasti Pure Ghee 1 L",
+            "Price": "747",
+            "Quentity": "1 L"
+        },
+        "2": {
+            "Item Name": "PATANJALI Ghee 1 L Box",
+            "Price": "611",
+            "Quentity": "1 L"
+        },
+        "3": {
+            "Item Name": "ANANDA Ghee 900 ml Tetrapack",
+            "Price": "504",
+            "Quentity": "900 ml"
+        },
+        "4": {
+            "Item Name": "Himalayan Natives",
+            "Price": "570",
+            "Quentity": "1 L "
+        },
+        "5": {
+            "Item Name": "EVERYDAY Shahi Ghee Tetrapack",
+            "Price": "551",
+            "Quentity": "1 L"
+        },
+        "6": {
+            "Item Name": "PARAS Desi Ghee",
+            "Price": "536",
+            "Quentity": "1 L"
+        },
+        "7": {
+            "Item Name": "ASHIRVAAD Svasti Organic Cow Ghee",
+            "Price": "573",
+            "Quentity": "500 ml"
+        }
+    }
+}
